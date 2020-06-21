@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AssignmentKotlin</string>
+    <string name="show_local">No Internet connection. showing local data</string>
+</resources>
